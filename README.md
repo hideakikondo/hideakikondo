@@ -11,7 +11,7 @@
   
 # Other skills
 - Java(Spring Boot), Python(Django), Ruby(Rails)
-- TypeScript(Vue.js)
+- TypeScript
 - AWS
   - EC2, ECS, RDS ...
   - IaC using CDK
