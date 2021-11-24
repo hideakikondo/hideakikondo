@@ -15,6 +15,8 @@
 - AWS
   - EC2, ECS, RDS ...
   - IaC using CDK
+- Google App Script
+  - Automating Office-work Processes  
 
 # Twitter
 [@hd__py](https://twitter.com/hd__py)
